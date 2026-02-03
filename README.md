@@ -1,4 +1,4 @@
-# Hi there, I'm Titi Akinola! 👋
+# Hi there, I'm Titi Adeh! 👋
 
 ### SRE & Cloud Automation Engineer ☁️
 I specialize in building resilient infrastructure and reducing operational toil through Python-based automation. I have a passion for security, FinOps, and the "Infrastructure as Code" mindset.
