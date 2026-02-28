@@ -10,6 +10,7 @@ I am currently developing a suite of tools focused on Cloud Reliability and Secu
 
 * **[Cloud-Waste-Sentinel](https://github.com/TitiAkinola/cloud-waste-sentinel)**: Identifying orphaned resources to optimize cloud expenditure.
 * **[IAM-Policy-Auditor](https://github.com/TitiAkinola/iam-policy-auditor)**: Automating security audits for cloud access policies.
+* [GCP AI-Powered IAM Auditor](https://github.com/TitiAkinola/iam-security-ai-agent): An autonomous agent using Gemini-3-flash-preview to identify over-privileged roles and provide real-time SRE remediation steps for Google Cloud security.
 * **[Service-Uptime-Monitor](https://github.com/TitiAkinola/api-fetcher)**: Tracking real-time API health and service availability.
 * **[Log Analyzer](https://github.com/TitiAkinola/gcp-sre-automation-toolkit)**: Streamlining diagnostic workflows for incident response.
 
